@@ -1,0 +1,15 @@
+#textbox1 {
+      border: 1px solid transparent;
+      padding:5px;
+  }
+
+#textbox2 {
+        border: 2px solid black;
+        background-color: white;
+        padding:8px;
+    }
+
+html {
+          background:url(9673.jpg) no-repeat center center fixed;
+          background-size: cover;
+}
